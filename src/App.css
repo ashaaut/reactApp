@@ -1,0 +1,11 @@
+.App{
+  background-color:hsl(200,140%,60%s);
+  box-shadow: 0 30px 30px palevioletred;
+  display: inline-block;
+  margin: 10px;
+  border: 1px;
+  width: 350px;
+  height: 350px;
+  padding: 20px;
+  margin-top: 5px;
+}
